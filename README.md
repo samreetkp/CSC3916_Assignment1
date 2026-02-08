@@ -11,7 +11,7 @@ The server is deployed on Render and auto-deploys from GitHub.
 https://csc3916-assignment1-h1fe.onrender.com
 
 ## Postman Collection
-The Postman collection is included in this repository.
+https://www.postman.com/samreet-kaur-9185559/workspace/assignment1/request/51992009-049a7319-de18-4f5e-b215-7a4c37a33e1d?action=share&creator=51992009&ctx=documentation&active-environment=51992009-eda47929-30aa-427a-aee5-b2043abd1291
 
 ### Environment Variables
 - echo_body: Body text sent to the Echo server
